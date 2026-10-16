@@ -1,28 +1,40 @@
-# Task 1: AI Voice Assistant
+# AI Voice Assistant — Bixby
 
-## Internship
-EduLumos Artificial Intelligence Internship
+## About the Project
+Bixby is a Python-based voice assistant that recognizes spoken commands and responds to users using speech synthesis.
 
-## Project Description
-The AI Voice Assistant is a Python-based assistant
-that listens to voice commands and responds to them.
-
-## Objectives
-- Recognize voice commands.
-- Convert speech into text.
-- Respond to user commands.
-- Perform simple automation tasks.
+## Features
+- Voice input using SpeechRecognition
+- Spoken responses using pyttsx3
+- YouTube song playback
+- Current time and date
+- Basic Wikipedia information
+- Joke generation
+- Opening supported applications
+- Voice commands to exit the assistant
 
 ## Technologies Used
 - Python
-- Speech Recognition
-- Text-to-Speech
+- SpeechRecognition
+- pyttsx3
+- PyWhatKit
+- Wikipedia
+- PyJokes
+- PyAudio
 
-## Features
-To be implemented.
+## Installation and Setup
+1. Install Python on your computer.
+2. Install the required libraries using:
 
-## How to Run
-Instructions will be added after project development.
+   `pip install -r requirements.txt`
+
+3. Connect a working microphone.
+4. Run the program using:
+
+   `python Virtual.py`
 
 ## Project Status
-In Progress
+Previously developed as a college project and being organized for the EduLumos AI Internship.
+
+## Internship
+EduLumos Artificial Intelligence Internship — October–November 2026.
