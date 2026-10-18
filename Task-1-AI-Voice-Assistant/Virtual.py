@@ -28,20 +28,33 @@ def input_instruction():
     try:
         with sr.Microphone() as source:
             print("🎤 Listening...")
-            listener.adjust_for_ambient_noise(source, duration=1)
-            audio = listener.listen(source, timeout=5, phrase_time_limit=5)
+            listener.adjust_for_ambient_noise(source, duration=0.5)
+
+            try:
+                audio = listener.listen(
+                    source,
+                    timeout=5,
+                    phrase_time_limit=5
+                )
+            except sr.WaitTimeoutError:
+                # Stay silent when no one speaks
+                return ""
+
             instruction = listener.recognize_google(audio).lower()
             print("🗣️ You said:", instruction)
             return instruction
-    except sr.WaitTimeoutError:
-        talk("Timeout. Please try again.")
+
     except sr.UnknownValueError:
-        talk("Sorry, I didn't catch that.")
+        # Ignore speech that could not be understood
+        return ""
+
     except sr.RequestError:
-        talk("Network error.")
+        talk("Network error. Please check your internet connection.")
+        return ""
+
     except Exception as e:
-        talk(f"An error occurred: {str(e)}")
-    return ""
+        print("Error:", e)
+        return ""
 
 # === Open Application ===
 def open_app(path, app_name):
