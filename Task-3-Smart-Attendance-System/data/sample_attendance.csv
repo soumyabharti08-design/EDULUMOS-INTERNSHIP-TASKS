@@ -1,0 +1,501 @@
+student_id,student_name,total_classes,classes_attended,attendance_percentage,attendance_risk
+STU001,Ishaan Patel,98,64,65.31,At Risk
+STU002,Kavya Das,111,78,70.27,At Risk
+STU003,Pooja Verma,88,23,26.14,At Risk
+STU004,Arjun Mishra,74,54,72.97,At Risk
+STU005,Rahul Mishra,102,98,96.08,Safe
+STU006,Dev Patel,67,56,83.58,Safe
+STU007,Varun Verma,120,70,58.33,At Risk
+STU008,Neha Das,80,74,92.5,Safe
+STU009,Vikram Mishra,98,89,90.82,Safe
+STU010,Aditya Joshi,117,73,62.39,At Risk
+STU011,Rahul Sharma,78,52,66.67,At Risk
+STU012,Ananya Yadav,82,73,89.02,Safe
+STU013,Rohan Sharma,70,50,71.43,At Risk
+STU014,Dev Gupta,70,35,50.0,At Risk
+STU015,Karan Mishra,83,52,62.65,At Risk
+STU016,Neha Gupta,112,100,89.29,Safe
+STU017,Arjun Sharma,95,60,63.16,At Risk
+STU018,Ananya Patel,99,58,58.59,At Risk
+STU019,Priya Mishra,83,64,77.11,Safe
+STU020,Arjun Verma,62,48,77.42,Safe
+STU021,Riya Singh,81,30,37.04,At Risk
+STU022,Sneha Patel,112,45,40.18,At Risk
+STU023,Neha Patel,61,25,40.98,At Risk
+STU024,Riya Verma,83,65,78.31,Safe
+STU025,Karan Patel,103,69,66.99,At Risk
+STU026,Sneha Verma,89,84,94.38,Safe
+STU027,Neha Sharma,97,89,91.75,Safe
+STU028,Priya Das,61,60,98.36,Safe
+STU029,Pooja Kumar,119,87,73.11,At Risk
+STU030,Priya Verma,80,43,53.75,At Risk
+STU031,Karan Mishra,92,36,39.13,At Risk
+STU032,Dev Verma,71,64,90.14,Safe
+STU033,Aditya Patel,117,83,70.94,At Risk
+STU034,Neha Joshi,81,61,75.31,Safe
+STU035,Riya Mishra,120,112,93.33,Safe
+STU036,Aditya Gupta,103,71,68.93,At Risk
+STU037,Aditya Sharma,84,46,54.76,At Risk
+STU038,Vikram Yadav,108,80,74.07,At Risk
+STU039,Karan Gupta,86,79,91.86,Safe
+STU040,Varun Gupta,118,44,37.29,At Risk
+STU041,Varun Yadav,101,40,39.6,At Risk
+STU042,Vikram Joshi,87,75,86.21,Safe
+STU043,Kavya Das,119,25,21.01,At Risk
+STU044,Ananya Mishra,75,56,74.67,At Risk
+STU045,Nisha Singh,74,44,59.46,At Risk
+STU046,Aisha Verma,106,79,74.53,At Risk
+STU047,Riya Singh,110,44,40.0,At Risk
+STU048,Dev Kumar,103,71,68.93,At Risk
+STU049,Ananya Joshi,114,68,59.65,At Risk
+STU050,Neha Verma,111,85,76.58,Safe
+STU051,Meera Joshi,116,37,31.9,At Risk
+STU052,Riya Verma,62,19,30.65,At Risk
+STU053,Aisha Mishra,96,48,50.0,At Risk
+STU054,Priya Yadav,110,91,82.73,Safe
+STU055,Meera Sharma,66,59,89.39,Safe
+STU056,Dev Yadav,80,65,81.25,Safe
+STU057,Vikram Das,68,45,66.18,At Risk
+STU058,Aisha Kumar,98,92,93.88,Safe
+STU059,Sneha Sharma,77,63,81.82,Safe
+STU060,Aisha Mishra,63,42,66.67,At Risk
+STU061,Arjun Kumar,84,46,54.76,At Risk
+STU062,Rohan Yadav,119,73,61.34,At Risk
+STU063,Ishaan Yadav,73,56,76.71,Safe
+STU064,Aarav Patel,109,87,79.82,Safe
+STU065,Arjun Verma,117,101,86.32,Safe
+STU066,Meera Singh,68,42,61.76,At Risk
+STU067,Ananya Verma,85,49,57.65,At Risk
+STU068,Dev Patel,112,86,76.79,Safe
+STU069,Karan Patel,61,57,93.44,Safe
+STU070,Vikram Kumar,79,76,96.2,Safe
+STU071,Pooja Mishra,87,79,90.8,Safe
+STU072,Meera Patel,106,89,83.96,Safe
+STU073,Rohan Sharma,119,109,91.6,Safe
+STU074,Aarav Yadav,66,33,50.0,At Risk
+STU075,Kavya Joshi,103,84,81.55,Safe
+STU076,Ishaan Gupta,120,56,46.67,At Risk
+STU077,Aarav Mishra,67,57,85.07,Safe
+STU078,Meera Sharma,106,77,72.64,At Risk
+STU079,Ananya Yadav,94,65,69.15,At Risk
+STU080,Arjun Gupta,73,54,73.97,At Risk
+STU081,Nisha Patel,76,42,55.26,At Risk
+STU082,Varun Gupta,95,53,55.79,At Risk
+STU083,Kavya Sharma,109,94,86.24,Safe
+STU084,Rohan Kumar,99,52,52.53,At Risk
+STU085,Pooja Joshi,63,49,77.78,Safe
+STU086,Arjun Patel,61,19,31.15,At Risk
+STU087,Dev Verma,65,30,46.15,At Risk
+STU088,Riya Patel,113,98,86.73,Safe
+STU089,Meera Yadav,101,62,61.39,At Risk
+STU090,Aditya Yadav,63,42,66.67,At Risk
+STU091,Karan Verma,113,57,50.44,At Risk
+STU092,Rohan Singh,88,47,53.41,At Risk
+STU093,Priya Yadav,77,55,71.43,At Risk
+STU094,Arjun Kumar,85,55,64.71,At Risk
+STU095,Ishaan Kumar,103,101,98.06,Safe
+STU096,Aarav Singh,93,59,63.44,At Risk
+STU097,Karan Joshi,69,60,86.96,Safe
+STU098,Karan Verma,95,73,76.84,Safe
+STU099,Arjun Mishra,73,37,50.68,At Risk
+STU100,Neha Joshi,90,77,85.56,Safe
+STU101,Ananya Verma,107,57,53.27,At Risk
+STU102,Rahul Kumar,74,32,43.24,At Risk
+STU103,Meera Gupta,67,32,47.76,At Risk
+STU104,Neha Kumar,73,51,69.86,At Risk
+STU105,Aarav Singh,82,78,95.12,Safe
+STU106,Ishaan Patel,119,47,39.5,At Risk
+STU107,Karan Yadav,116,70,60.34,At Risk
+STU108,Vikram Kumar,99,72,72.73,At Risk
+STU109,Kavya Gupta,80,50,62.5,At Risk
+STU110,Meera Gupta,75,47,62.67,At Risk
+STU111,Kavya Gupta,104,78,75.0,Safe
+STU112,Sneha Mishra,77,33,42.86,At Risk
+STU113,Priya Kumar,106,84,79.25,Safe
+STU114,Vikram Singh,112,72,64.29,At Risk
+STU115,Riya Das,83,51,61.45,At Risk
+STU116,Rahul Yadav,85,43,50.59,At Risk
+STU117,Rahul Kumar,84,70,83.33,Safe
+STU118,Vikram Kumar,119,91,76.47,Safe
+STU119,Nisha Mishra,119,113,94.96,Safe
+STU120,Ishaan Yadav,119,93,78.15,Safe
+STU121,Ananya Das,104,100,96.15,Safe
+STU122,Sneha Sharma,100,27,27.0,At Risk
+STU123,Nisha Joshi,88,33,37.5,At Risk
+STU124,Pooja Sharma,74,48,64.86,At Risk
+STU125,Neha Das,104,39,37.5,At Risk
+STU126,Meera Kumar,60,53,88.33,Safe
+STU127,Kavya Yadav,84,60,71.43,At Risk
+STU128,Priya Gupta,66,45,68.18,At Risk
+STU129,Sneha Joshi,68,45,66.18,At Risk
+STU130,Aarav Joshi,83,56,67.47,At Risk
+STU131,Aditya Singh,60,43,71.67,At Risk
+STU132,Meera Gupta,103,52,50.49,At Risk
+STU133,Ananya Joshi,67,53,79.1,Safe
+STU134,Ananya Patel,83,67,80.72,Safe
+STU135,Arjun Mishra,70,29,41.43,At Risk
+STU136,Aarav Joshi,110,62,56.36,At Risk
+STU137,Neha Kumar,76,61,80.26,Safe
+STU138,Ananya Mishra,67,27,40.3,At Risk
+STU139,Rahul Yadav,94,71,75.53,Safe
+STU140,Priya Verma,94,89,94.68,Safe
+STU141,Karan Joshi,92,62,67.39,At Risk
+STU142,Meera Das,118,86,72.88,At Risk
+STU143,Ananya Das,64,59,92.19,Safe
+STU144,Neha Yadav,101,60,59.41,At Risk
+STU145,Rohan Mishra,98,90,91.84,Safe
+STU146,Nisha Verma,117,86,73.5,At Risk
+STU147,Ishaan Kumar,100,82,82.0,Safe
+STU148,Arjun Sharma,87,53,60.92,At Risk
+STU149,Meera Joshi,66,57,86.36,Safe
+STU150,Kavya Yadav,68,45,66.18,At Risk
+STU151,Kavya Patel,67,49,73.13,At Risk
+STU152,Ishaan Gupta,71,47,66.2,At Risk
+STU153,Neha Mishra,93,54,58.06,At Risk
+STU154,Ananya Sharma,92,69,75.0,Safe
+STU155,Vikram Singh,107,102,95.33,Safe
+STU156,Sneha Mishra,114,79,69.3,At Risk
+STU157,Dev Yadav,82,67,81.71,Safe
+STU158,Riya Verma,83,59,71.08,At Risk
+STU159,Vikram Verma,96,48,50.0,At Risk
+STU160,Rohan Singh,94,60,63.83,At Risk
+STU161,Nisha Yadav,103,81,78.64,Safe
+STU162,Ishaan Mishra,99,82,82.83,Safe
+STU163,Aarav Verma,81,63,77.78,Safe
+STU164,Sneha Verma,86,78,90.7,Safe
+STU165,Dev Das,94,88,93.62,Safe
+STU166,Riya Gupta,60,42,70.0,At Risk
+STU167,Sneha Kumar,94,48,51.06,At Risk
+STU168,Aisha Das,96,84,87.5,Safe
+STU169,Riya Patel,106,105,99.06,Safe
+STU170,Sneha Mishra,73,21,28.77,At Risk
+STU171,Meera Sharma,62,39,62.9,At Risk
+STU172,Vikram Verma,60,47,78.33,Safe
+STU173,Ishaan Kumar,64,16,25.0,At Risk
+STU174,Arjun Singh,85,61,71.76,At Risk
+STU175,Rahul Mishra,114,76,66.67,At Risk
+STU176,Meera Gupta,73,45,61.64,At Risk
+STU177,Aisha Patel,98,91,92.86,Safe
+STU178,Sneha Kumar,86,53,61.63,At Risk
+STU179,Aisha Das,68,28,41.18,At Risk
+STU180,Sneha Singh,74,57,77.03,Safe
+STU181,Meera Patel,74,51,68.92,At Risk
+STU182,Priya Sharma,85,52,61.18,At Risk
+STU183,Ishaan Gupta,101,44,43.56,At Risk
+STU184,Pooja Verma,119,56,47.06,At Risk
+STU185,Priya Joshi,72,69,95.83,Safe
+STU186,Neha Das,110,72,65.45,At Risk
+STU187,Neha Singh,91,78,85.71,Safe
+STU188,Dev Sharma,98,63,64.29,At Risk
+STU189,Ishaan Joshi,108,56,51.85,At Risk
+STU190,Vikram Singh,111,64,57.66,At Risk
+STU191,Aisha Kumar,120,96,80.0,Safe
+STU192,Meera Yadav,91,83,91.21,Safe
+STU193,Rohan Das,63,51,80.95,Safe
+STU194,Ananya Gupta,89,57,64.04,At Risk
+STU195,Kavya Gupta,96,66,68.75,At Risk
+STU196,Kavya Mishra,82,69,84.15,Safe
+STU197,Priya Joshi,98,70,71.43,At Risk
+STU198,Neha Kumar,104,60,57.69,At Risk
+STU199,Rohan Yadav,74,54,72.97,At Risk
+STU200,Rahul Das,102,89,87.25,Safe
+STU201,Ananya Yadav,88,62,70.45,At Risk
+STU202,Priya Patel,95,73,76.84,Safe
+STU203,Aarav Yadav,72,66,91.67,Safe
+STU204,Aditya Sharma,91,73,80.22,Safe
+STU205,Rahul Singh,66,46,69.7,At Risk
+STU206,Nisha Gupta,118,63,53.39,At Risk
+STU207,Rahul Patel,110,93,84.55,Safe
+STU208,Vikram Joshi,81,60,74.07,At Risk
+STU209,Riya Sharma,87,70,80.46,Safe
+STU210,Aisha Singh,61,45,73.77,At Risk
+STU211,Nisha Gupta,101,75,74.26,At Risk
+STU212,Aisha Singh,104,92,88.46,Safe
+STU213,Aarav Verma,116,51,43.97,At Risk
+STU214,Aarav Das,112,35,31.25,At Risk
+STU215,Karan Singh,65,30,46.15,At Risk
+STU216,Nisha Joshi,87,78,89.66,Safe
+STU217,Kavya Yadav,87,34,39.08,At Risk
+STU218,Arjun Gupta,103,92,89.32,Safe
+STU219,Aarav Sharma,103,66,64.08,At Risk
+STU220,Priya Mishra,79,55,69.62,At Risk
+STU221,Karan Yadav,89,78,87.64,Safe
+STU222,Ananya Gupta,70,60,85.71,Safe
+STU223,Ishaan Mishra,117,99,84.62,Safe
+STU224,Varun Gupta,114,59,51.75,At Risk
+STU225,Rahul Das,87,78,89.66,Safe
+STU226,Varun Patel,84,63,75.0,Safe
+STU227,Karan Joshi,98,68,69.39,At Risk
+STU228,Dev Joshi,92,70,76.09,Safe
+STU229,Aditya Das,60,31,51.67,At Risk
+STU230,Neha Gupta,116,79,68.1,At Risk
+STU231,Riya Singh,86,49,56.98,At Risk
+STU232,Kavya Singh,116,43,37.07,At Risk
+STU233,Dev Verma,111,62,55.86,At Risk
+STU234,Nisha Mishra,72,70,97.22,Safe
+STU235,Arjun Patel,100,67,67.0,At Risk
+STU236,Pooja Joshi,62,40,64.52,At Risk
+STU237,Riya Yadav,98,61,62.24,At Risk
+STU238,Ananya Das,65,57,87.69,Safe
+STU239,Dev Patel,67,53,79.1,Safe
+STU240,Rohan Sharma,86,54,62.79,At Risk
+STU241,Rahul Mishra,68,59,86.76,Safe
+STU242,Neha Singh,96,84,87.5,Safe
+STU243,Priya Mishra,92,32,34.78,At Risk
+STU244,Kavya Singh,110,92,83.64,Safe
+STU245,Rahul Verma,101,63,62.38,At Risk
+STU246,Vikram Joshi,103,42,40.78,At Risk
+STU247,Nisha Joshi,83,62,74.7,At Risk
+STU248,Karan Gupta,74,58,78.38,Safe
+STU249,Arjun Yadav,118,112,94.92,Safe
+STU250,Sneha Gupta,113,108,95.58,Safe
+STU251,Kavya Mishra,91,79,86.81,Safe
+STU252,Aditya Joshi,91,75,82.42,Safe
+STU253,Sneha Gupta,83,49,59.04,At Risk
+STU254,Nisha Patel,100,49,49.0,At Risk
+STU255,Varun Kumar,111,97,87.39,Safe
+STU256,Dev Singh,108,95,87.96,Safe
+STU257,Meera Kumar,108,74,68.52,At Risk
+STU258,Varun Singh,117,114,97.44,Safe
+STU259,Dev Yadav,111,64,57.66,At Risk
+STU260,Rohan Joshi,71,56,78.87,Safe
+STU261,Aisha Gupta,98,72,73.47,At Risk
+STU262,Pooja Patel,61,42,68.85,At Risk
+STU263,Riya Yadav,62,40,64.52,At Risk
+STU264,Pooja Kumar,108,60,55.56,At Risk
+STU265,Ananya Joshi,96,37,38.54,At Risk
+STU266,Pooja Mishra,108,73,67.59,At Risk
+STU267,Neha Sharma,115,85,73.91,At Risk
+STU268,Pooja Joshi,76,64,84.21,Safe
+STU269,Kavya Das,118,46,38.98,At Risk
+STU270,Priya Yadav,108,33,30.56,At Risk
+STU271,Vikram Das,61,13,21.31,At Risk
+STU272,Vikram Singh,61,55,90.16,Safe
+STU273,Pooja Singh,87,68,78.16,Safe
+STU274,Dev Yadav,113,101,89.38,Safe
+STU275,Rohan Kumar,82,80,97.56,Safe
+STU276,Vikram Sharma,96,79,82.29,Safe
+STU277,Varun Singh,91,33,36.26,At Risk
+STU278,Vikram Yadav,92,70,76.09,Safe
+STU279,Priya Mishra,60,45,75.0,Safe
+STU280,Dev Joshi,78,64,82.05,Safe
+STU281,Sneha Sharma,61,33,54.1,At Risk
+STU282,Dev Joshi,112,67,59.82,At Risk
+STU283,Aditya Yadav,103,70,67.96,At Risk
+STU284,Vikram Verma,85,52,61.18,At Risk
+STU285,Arjun Yadav,91,77,84.62,Safe
+STU286,Karan Kumar,65,56,86.15,Safe
+STU287,Sneha Singh,91,43,47.25,At Risk
+STU288,Nisha Gupta,114,74,64.91,At Risk
+STU289,Rahul Sharma,63,55,87.3,Safe
+STU290,Vikram Joshi,114,64,56.14,At Risk
+STU291,Aarav Sharma,70,53,75.71,Safe
+STU292,Rahul Das,115,107,93.04,Safe
+STU293,Dev Singh,118,112,94.92,Safe
+STU294,Ananya Verma,76,67,88.16,Safe
+STU295,Vikram Patel,97,58,59.79,At Risk
+STU296,Ishaan Singh,83,43,51.81,At Risk
+STU297,Rahul Mishra,64,50,78.12,Safe
+STU298,Riya Das,111,94,84.68,Safe
+STU299,Aarav Verma,93,41,44.09,At Risk
+STU300,Ananya Mishra,65,60,92.31,Safe
+STU301,Varun Kumar,81,35,43.21,At Risk
+STU302,Aarav Sharma,70,21,30.0,At Risk
+STU303,Neha Patel,107,67,62.62,At Risk
+STU304,Aarav Gupta,75,53,70.67,At Risk
+STU305,Pooja Kumar,92,59,64.13,At Risk
+STU306,Neha Patel,68,56,82.35,Safe
+STU307,Varun Das,119,80,67.23,At Risk
+STU308,Nisha Singh,118,107,90.68,Safe
+STU309,Meera Joshi,65,57,87.69,Safe
+STU310,Priya Mishra,75,47,62.67,At Risk
+STU311,Varun Yadav,88,59,67.05,At Risk
+STU312,Rohan Mishra,62,61,98.39,Safe
+STU313,Aditya Mishra,79,54,68.35,At Risk
+STU314,Rahul Verma,119,96,80.67,Safe
+STU315,Pooja Joshi,118,89,75.42,Safe
+STU316,Varun Patel,95,63,66.32,At Risk
+STU317,Aisha Singh,78,71,91.03,Safe
+STU318,Pooja Mishra,85,61,71.76,At Risk
+STU319,Aarav Sharma,62,46,74.19,At Risk
+STU320,Meera Gupta,78,45,57.69,At Risk
+STU321,Ishaan Gupta,79,40,50.63,At Risk
+STU322,Meera Sharma,91,84,92.31,Safe
+STU323,Sneha Sharma,66,58,87.88,Safe
+STU324,Rohan Yadav,111,100,90.09,Safe
+STU325,Riya Gupta,100,89,89.0,Safe
+STU326,Aarav Verma,92,81,88.04,Safe
+STU327,Pooja Yadav,99,71,71.72,At Risk
+STU328,Varun Kumar,98,69,70.41,At Risk
+STU329,Rohan Verma,77,75,97.4,Safe
+STU330,Dev Joshi,99,90,90.91,Safe
+STU331,Ananya Sharma,60,48,80.0,Safe
+STU332,Karan Singh,70,51,72.86,At Risk
+STU333,Aditya Joshi,87,72,82.76,Safe
+STU334,Riya Joshi,116,108,93.1,Safe
+STU335,Varun Kumar,84,67,79.76,Safe
+STU336,Nisha Mishra,109,70,64.22,At Risk
+STU337,Aisha Das,82,57,69.51,At Risk
+STU338,Arjun Yadav,90,63,70.0,At Risk
+STU339,Neha Das,89,64,71.91,At Risk
+STU340,Kavya Sharma,101,80,79.21,Safe
+STU341,Priya Kumar,94,76,80.85,Safe
+STU342,Rohan Yadav,66,37,56.06,At Risk
+STU343,Rohan Verma,119,117,98.32,Safe
+STU344,Nisha Yadav,75,63,84.0,Safe
+STU345,Vikram Sharma,85,77,90.59,Safe
+STU346,Meera Joshi,107,88,82.24,Safe
+STU347,Rahul Das,116,95,81.9,Safe
+STU348,Priya Yadav,111,86,77.48,Safe
+STU349,Rahul Verma,119,95,79.83,Safe
+STU350,Kavya Kumar,108,88,81.48,Safe
+STU351,Ishaan Joshi,61,53,86.89,Safe
+STU352,Aditya Kumar,60,54,90.0,Safe
+STU353,Nisha Yadav,107,76,71.03,At Risk
+STU354,Nisha Patel,71,29,40.85,At Risk
+STU355,Nisha Patel,64,51,79.69,Safe
+STU356,Dev Verma,96,52,54.17,At Risk
+STU357,Priya Kumar,91,82,90.11,Safe
+STU358,Rahul Kumar,118,74,62.71,At Risk
+STU359,Dev Das,114,74,64.91,At Risk
+STU360,Arjun Sharma,68,60,88.24,Safe
+STU361,Pooja Kumar,100,86,86.0,Safe
+STU362,Arjun Singh,94,85,90.43,Safe
+STU363,Priya Singh,78,47,60.26,At Risk
+STU364,Aarav Patel,107,44,41.12,At Risk
+STU365,Kavya Gupta,75,55,73.33,At Risk
+STU366,Dev Kumar,62,50,80.65,Safe
+STU367,Varun Gupta,79,51,64.56,At Risk
+STU368,Ananya Verma,83,48,57.83,At Risk
+STU369,Karan Sharma,113,94,83.19,Safe
+STU370,Vikram Singh,115,80,69.57,At Risk
+STU371,Aditya Sharma,92,67,72.83,At Risk
+STU372,Arjun Singh,83,31,37.35,At Risk
+STU373,Varun Sharma,111,103,92.79,Safe
+STU374,Kavya Singh,70,53,75.71,Safe
+STU375,Arjun Das,108,99,91.67,Safe
+STU376,Sneha Kumar,67,48,71.64,At Risk
+STU377,Vikram Das,95,70,73.68,At Risk
+STU378,Aisha Kumar,97,46,47.42,At Risk
+STU379,Aisha Patel,99,75,75.76,Safe
+STU380,Nisha Gupta,79,39,49.37,At Risk
+STU381,Dev Singh,94,83,88.3,Safe
+STU382,Arjun Das,107,94,87.85,Safe
+STU383,Varun Mishra,84,56,66.67,At Risk
+STU384,Vikram Yadav,94,81,86.17,Safe
+STU385,Arjun Das,84,67,79.76,Safe
+STU386,Aisha Singh,88,82,93.18,Safe
+STU387,Karan Mishra,77,60,77.92,Safe
+STU388,Aditya Sharma,105,37,35.24,At Risk
+STU389,Dev Singh,77,58,75.32,Safe
+STU390,Dev Sharma,61,53,86.89,Safe
+STU391,Riya Gupta,113,87,76.99,Safe
+STU392,Ishaan Verma,94,80,85.11,Safe
+STU393,Neha Verma,75,51,68.0,At Risk
+STU394,Rahul Das,120,118,98.33,Safe
+STU395,Aarav Verma,100,48,48.0,At Risk
+STU396,Pooja Joshi,95,84,88.42,Safe
+STU397,Kavya Verma,92,51,55.43,At Risk
+STU398,Sneha Patel,63,42,66.67,At Risk
+STU399,Ananya Mishra,92,47,51.09,At Risk
+STU400,Riya Patel,73,59,80.82,Safe
+STU401,Kavya Kumar,80,70,87.5,Safe
+STU402,Aarav Joshi,107,69,64.49,At Risk
+STU403,Riya Mishra,79,49,62.03,At Risk
+STU404,Varun Das,115,101,87.83,Safe
+STU405,Vikram Yadav,67,46,68.66,At Risk
+STU406,Sneha Yadav,66,59,89.39,Safe
+STU407,Aditya Sharma,62,32,51.61,At Risk
+STU408,Aarav Kumar,76,74,97.37,Safe
+STU409,Rohan Yadav,92,76,82.61,Safe
+STU410,Aisha Mishra,107,73,68.22,At Risk
+STU411,Priya Das,71,37,52.11,At Risk
+STU412,Ishaan Kumar,118,54,45.76,At Risk
+STU413,Neha Singh,110,93,84.55,Safe
+STU414,Aisha Gupta,81,70,86.42,Safe
+STU415,Dev Verma,114,68,59.65,At Risk
+STU416,Priya Kumar,81,63,77.78,Safe
+STU417,Ishaan Das,105,69,65.71,At Risk
+STU418,Karan Singh,89,65,73.03,At Risk
+STU419,Aditya Kumar,97,41,42.27,At Risk
+STU420,Ananya Sharma,97,89,91.75,Safe
+STU421,Rahul Kumar,104,75,72.12,At Risk
+STU422,Aisha Yadav,110,89,80.91,Safe
+STU423,Aarav Kumar,113,101,89.38,Safe
+STU424,Sneha Gupta,67,54,80.6,Safe
+STU425,Pooja Gupta,86,61,70.93,At Risk
+STU426,Vikram Das,86,63,73.26,At Risk
+STU427,Aisha Joshi,93,71,76.34,Safe
+STU428,Rahul Singh,80,66,82.5,Safe
+STU429,Varun Patel,89,77,86.52,Safe
+STU430,Ananya Gupta,92,72,78.26,Safe
+STU431,Aarav Singh,87,75,86.21,Safe
+STU432,Meera Mishra,106,78,73.58,At Risk
+STU433,Kavya Joshi,92,71,77.17,Safe
+STU434,Nisha Mishra,64,39,60.94,At Risk
+STU435,Karan Joshi,119,52,43.7,At Risk
+STU436,Riya Joshi,120,107,89.17,Safe
+STU437,Rohan Singh,107,89,83.18,Safe
+STU438,Riya Das,78,63,80.77,Safe
+STU439,Vikram Das,63,55,87.3,Safe
+STU440,Aditya Sharma,94,73,77.66,Safe
+STU441,Vikram Gupta,108,74,68.52,At Risk
+STU442,Arjun Kumar,76,49,64.47,At Risk
+STU443,Varun Patel,103,86,83.5,Safe
+STU444,Aditya Kumar,87,55,63.22,At Risk
+STU445,Arjun Kumar,89,52,58.43,At Risk
+STU446,Rohan Das,88,83,94.32,Safe
+STU447,Vikram Joshi,105,87,82.86,Safe
+STU448,Pooja Patel,112,87,77.68,Safe
+STU449,Arjun Gupta,65,63,96.92,Safe
+STU450,Karan Singh,94,92,97.87,Safe
+STU451,Dev Joshi,119,86,72.27,At Risk
+STU452,Karan Sharma,100,63,63.0,At Risk
+STU453,Neha Gupta,96,83,86.46,Safe
+STU454,Priya Gupta,83,67,80.72,Safe
+STU455,Sneha Verma,88,61,69.32,At Risk
+STU456,Aarav Sharma,108,94,87.04,Safe
+STU457,Ishaan Das,105,48,45.71,At Risk
+STU458,Varun Das,112,82,73.21,At Risk
+STU459,Kavya Patel,90,55,61.11,At Risk
+STU460,Ananya Verma,94,59,62.77,At Risk
+STU461,Arjun Das,119,69,57.98,At Risk
+STU462,Ishaan Joshi,92,86,93.48,Safe
+STU463,Dev Kumar,111,43,38.74,At Risk
+STU464,Varun Kumar,120,91,75.83,Safe
+STU465,Dev Mishra,80,65,81.25,Safe
+STU466,Neha Yadav,91,45,49.45,At Risk
+STU467,Dev Sharma,82,67,81.71,Safe
+STU468,Aarav Patel,92,78,84.78,Safe
+STU469,Rahul Das,62,33,53.23,At Risk
+STU470,Neha Das,77,47,61.04,At Risk
+STU471,Aarav Verma,84,81,96.43,Safe
+STU472,Priya Patel,101,73,72.28,At Risk
+STU473,Karan Kumar,90,53,58.89,At Risk
+STU474,Aarav Verma,113,110,97.35,Safe
+STU475,Pooja Sharma,117,103,88.03,Safe
+STU476,Aditya Mishra,62,35,56.45,At Risk
+STU477,Vikram Joshi,99,61,61.62,At Risk
+STU478,Karan Gupta,105,63,60.0,At Risk
+STU479,Vikram Patel,83,50,60.24,At Risk
+STU480,Aditya Das,109,97,88.99,Safe
+STU481,Vikram Joshi,91,77,84.62,Safe
+STU482,Aarav Sharma,106,76,71.7,At Risk
+STU483,Vikram Yadav,81,55,67.9,At Risk
+STU484,Rahul Gupta,82,70,85.37,Safe
+STU485,Ishaan Das,61,34,55.74,At Risk
+STU486,Pooja Yadav,86,73,84.88,Safe
+STU487,Arjun Mishra,101,82,81.19,Safe
+STU488,Aarav Yadav,61,28,45.9,At Risk
+STU489,Pooja Yadav,85,75,88.24,Safe
+STU490,Varun Patel,76,56,73.68,At Risk
+STU491,Arjun Joshi,99,34,34.34,At Risk
+STU492,Riya Patel,92,49,53.26,At Risk
+STU493,Varun Verma,68,47,69.12,At Risk
+STU494,Arjun Patel,102,65,63.73,At Risk
+STU495,Ishaan Gupta,113,108,95.58,Safe
+STU496,Riya Yadav,107,102,95.33,Safe
+STU497,Neha Verma,98,72,73.47,At Risk
+STU498,Varun Verma,88,56,63.64,At Risk
+STU499,Neha Kumar,101,78,77.23,Safe
+STU500,Sneha Yadav,114,102,89.47,Safe
